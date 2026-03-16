@@ -60,6 +60,6 @@ This repo is a starter library for red-teaming and safety evaluation of:
 
 Review the JSON scenario files under `scenarios/` and `agents/`, then use `evaluation/scoring.py` to build your own automated checks.
 
-## Positioning
+## About Aethryx
 
 Aethryx is building AI governance and testing infrastructure for enterprise GenAI systems and autonomous AI agents. This repository is a small open-source contribution to safer AI deployment.
